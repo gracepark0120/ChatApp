@@ -1,0 +1,9 @@
+spring:
+  jwt:
+    secret: c5a2f10ecf78908a4a789c3c7a84e6d6c77692a8a48f7882235f588b143ae2c0
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: chat
+
